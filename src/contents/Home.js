@@ -1,5 +1,5 @@
 import React, { Component } from 'react'
-import Social from '../components/Social';
+// import Social from '../components/Social';
 import profile1 from '../img/profile1.jpeg';
 import ReactTypingEffect from 'react-typing-effect';
 class Home extends Component{
